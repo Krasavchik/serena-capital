@@ -1,5 +1,9 @@
 # Serena Data Ventures
 
+## Serena Data Ventures II portfolio
+
+Work in progress
+
 ## Serena Data Ventures I portfolio
 
 | Company | Founders | GitHub |
