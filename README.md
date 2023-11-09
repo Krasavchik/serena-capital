@@ -2,7 +2,12 @@
 
 ## Serena Data Ventures II portfolio
 
-Work in progress
+| Company | Founders | GitHub |
+|----------|---------|--------|
+| [**Quandela**](https://www.quandela.com/)        | [Niccolo Somaschi](https://www.linkedin.com/in/niccolo-somaschi-a3689598/), [Valérien Giesz](https://www.linkedin.com/in/valerian-giesz-119517105/), [Pascale Senellart](https://www.linkedin.com/in/pascale-senellart-4b784088/)     | [✩](https://github.com/Quandela)    |
+| [**Koyeb**](https://www.koyeb.com/)      | [Edouard Bonlieu](https://www.linkedin.com/in/ebonlieu/), [Bastien Chatelard](https://www.linkedin.com/in/bastienchatelard/), [Yann Léger](https://www.linkedin.com/in/yannleger/)    | [✩](https://github.com/koyeb)    |
+| [**Fipto**](https://fr.fipto.com/)       | [Gregoire Andrieu-Guitrancourt](https://www.linkedin.com/in/gregoire-andrieu-guitrancourt/), [Bertrand Godin](https://www.linkedin.com/in/bertrandgodin/), [Patrick Mollard](https://www.linkedin.com/in/patrick-mollard-703a881/)    |     |
+| [**Defer**](https://www.defer.run/)      | [Bryan Frimin](https://www.linkedin.com/in/gearnode/), [Charles Poly](https://www.linkedin.com/in/charly-poly/)  | [✩](https://github.com/defer-run)    |
 
 ## Serena Data Ventures I portfolio
 
