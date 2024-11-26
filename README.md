@@ -4,6 +4,11 @@
 
 | Company | Founders | GitHub |
 |----------|---------|--------|
+| [**Pyannote AI**](https://pyannote.ai/) | | [✩](https://github.com/pyannote/pyannote-audio) |
+| [**Edgee**](https://www.edgee.cloud/) | | [✩](https://github.com/edgee-cloud/edgee) |
+| [**Cloud Ex Machina**](https://www.cloudexmachina.io/) | | |
+| [**PixelTable**](https://pixeltable.com/) | | [✩](https://github.com/pixeltable/pixeltable) |
+| [**Metroblocks**](https://www.metrobloks.com/) | | |
 | [**switstack**](https://www.switstack.io/) | | |
 | [**Kotzilla**](https://kotzilla.io/)        | [Arnaud Giuliani](https://www.linkedin.com/in/arnaud-giuliani-0b2b73b/), [Michael Montoya](https://www.linkedin.com/in/montoyamichael/)   | [✩](https://github.com/InsertKoinIO/koin)    |
 | [**Opsmill**](https://www.opsmill.com/)        | [Damien Garros](https://www.linkedin.com/in/damiengarros/), [Raphaël Maunier](https://www.linkedin.com/in/rmaunier/)   | [✩](https://github.com/opsmill)    |
