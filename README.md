@@ -4,6 +4,7 @@
 
 | Company | Founders | GitHub |
 |----------|---------|--------|
+| [**switstack**](https://www.switstack.io/) | | |
 | [**Kotzilla**](https://kotzilla.io/)        | [Arnaud Giuliani](https://www.linkedin.com/in/arnaud-giuliani-0b2b73b/), [Michael Montoya](https://www.linkedin.com/in/montoyamichael/)   | [✩](https://github.com/InsertKoinIO/koin)    |
 | [**Opsmill**](https://www.opsmill.com/)        | [Damien Garros](https://www.linkedin.com/in/damiengarros/), [Raphaël Maunier](https://www.linkedin.com/in/rmaunier/)   | [✩](https://github.com/opsmill)    |
 | [**Quandela**](https://www.quandela.com/)        | [Niccolo Somaschi](https://www.linkedin.com/in/niccolo-somaschi-a3689598/), [Valérien Giesz](https://www.linkedin.com/in/valerian-giesz-119517105/), [Pascale Senellart](https://www.linkedin.com/in/pascale-senellart-4b784088/)     | [✩](https://github.com/Quandela)    |
