@@ -14,7 +14,7 @@
 | [**Cloud Ex Machina**](https://www.cloudexmachina.io/) | | |
 | [**PixelTable**](https://pixeltable.com/) | | [✩](https://github.com/pixeltable/pixeltable) |
 | [**Metroblocks**](https://www.metrobloks.com/) | | |
-| [**switstack**](https://www.switstack.io/) | | |
+| [**switstack**](https://www.switstack.io/) | [Vincent Durieux](https://www.linkedin.com/in/vincentdurieux/), [Emmanuel Haydont](https://www.linkedin.com/in/ehaydont/), [Alexandre Munsch](https://www.linkedin.com/in/alexandremunsch/), [Olivier Chauvineau](https://www.linkedin.com/in/olivier-chauvineau-07b007195/) | [✩](https://github.com/switstack) |
 | [**Kotzilla**](https://kotzilla.io/)        | [Arnaud Giuliani](https://www.linkedin.com/in/arnaud-giuliani-0b2b73b/), [Michael Montoya](https://www.linkedin.com/in/montoyamichael/)   | [✩](https://github.com/InsertKoinIO/koin)    |
 | [**Opsmill**](https://www.opsmill.com/)        | [Damien Garros](https://www.linkedin.com/in/damiengarros/), [Raphaël Maunier](https://www.linkedin.com/in/rmaunier/)   | [✩](https://github.com/opsmill)    |
 | [**Quandela**](https://www.quandela.com/)        | [Niccolo Somaschi](https://www.linkedin.com/in/niccolo-somaschi-a3689598/), [Valérien Giesz](https://www.linkedin.com/in/valerian-giesz-119517105/), [Pascale Senellart](https://www.linkedin.com/in/pascale-senellart-4b784088/)     | [✩](https://github.com/Quandela)    |
