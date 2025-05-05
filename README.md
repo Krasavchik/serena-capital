@@ -4,7 +4,12 @@
 
 | Company | Founders | GitHub |
 |----------|---------|--------|
-| [**Pyannote AI**](https://pyannote.ai/) | | [✩](https://github.com/pyannote/pyannote-audio) |
+| [**Deep IP**](https://www.deepip.ai/) | | |
+| [**Emmi AI**](https://www.emmi.ai/) | | |
+| [**Tracer Cloud**](https://www.tracer.cloud/) | | |
+| [**Rime Finance**](https://rime.finance/) | [Léonie Rivière](https://www.linkedin.com/in/leonieriviere/), [Marcel Katenhusen](https://www.linkedin.com/in/marcel-katenhusen/) | |
+| [**Kleio**](https://www.kleio.ai/) | | |
+| [**Pyannote AI**](https://pyannote.ai/) | [Vincent Molina](https://www.linkedin.com/in/vincent-molina-39041730/), [Hervé Bredin](https://www.linkedin.com/in/herv%C3%A9-bredin-50b36a248/) | [✩](https://github.com/pyannote/pyannote-audio) |
 | [**Edgee**](https://www.edgee.cloud/) | | [✩](https://github.com/edgee-cloud/edgee) |
 | [**Cloud Ex Machina**](https://www.cloudexmachina.io/) | | |
 | [**PixelTable**](https://pixeltable.com/) | | [✩](https://github.com/pixeltable/pixeltable) |
