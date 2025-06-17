@@ -4,6 +4,7 @@
 
 | Company | Founders | GitHub |
 |----------|---------|--------|
+| [**Roofline AI**](https://www.roofline.ai/) | | [✩](https://github.com/RooflineAI) |
 | [**Deep IP**](https://www.deepip.ai/) | | |
 | [**Emmi AI**](https://www.emmi.ai/) | | |
 | [**Tracer Cloud**](https://www.tracer.cloud/) | | |
